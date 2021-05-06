@@ -13,5 +13,3 @@ there is a ***rest_data*** table:
 -   *address*  — address
 -   *number* — number of seats
  
-#### Visualization
-![Proportions of establishments by types](images/proportions_of_establishments_by_tipes.png)
